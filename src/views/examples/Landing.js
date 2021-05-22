@@ -81,13 +81,11 @@ class Landing extends React.Component {
                   <Row>
                     <Col lg="6">
                       <h1 className="display-3 text-white">
-                        A beautiful Design System{" "}
-                        <span>completed with examples</span>
+                        Web development{" "}
+                        <span> with projects</span>
                       </h1>
                       <p className="lead text-white">
-                        The design system comes with four pre-built pages to
-                        help you get started faster. You can change the text and
-                        images and you're good to go.
+                       I like web development and networking.
                       </p>
                       <div className="btn-wrapper">
                         <Button
@@ -148,22 +146,20 @@ class Landing extends React.Component {
                             <i className="ni ni-check-bold" />
                           </div>
                           <h6 className="text-primary text-uppercase">
-                            Download Argon
+                            201
                           </h6>
                           <p className="description mt-3">
-                            Argon is a great free UI package based on Bootstrap
-                            4 that includes the most important components and
-                            features.
+                            201 project was using pure HTML, CSS, and JS.
                           </p>
                           <div>
                             <Badge color="primary" pill className="mr-1">
-                              design
+                              About-me
                             </Badge>
                             <Badge color="primary" pill className="mr-1">
-                              system
+                              chocolate-pizza
                             </Badge>
                             <Badge color="primary" pill className="mr-1">
-                              creative
+                              MSA
                             </Badge>
                           </div>
                           <Button
@@ -184,22 +180,20 @@ class Landing extends React.Component {
                             <i className="ni ni-istanbul" />
                           </div>
                           <h6 className="text-success text-uppercase">
-                            Build Something
+                            301
                           </h6>
                           <p className="description mt-3">
-                            Argon is a great free UI package based on Bootstrap
-                            4 that includes the most important components and
-                            features.
+                            301 will have a backened using mongoDB and frontend using react
                           </p>
                           <div>
                             <Badge color="success" pill className="mr-1">
-                              business
+                              horned-animals
                             </Badge>
                             <Badge color="success" pill className="mr-1">
-                              vision
+                              portfolio
                             </Badge>
                             <Badge color="success" pill className="mr-1">
-                              success
+                              final
                             </Badge>
                           </div>
                           <Button
@@ -220,22 +214,20 @@ class Landing extends React.Component {
                             <i className="ni ni-planet" />
                           </div>
                           <h6 className="text-warning text-uppercase">
-                            Prepare Launch
+                            401
                           </h6>
                           <p className="description mt-3">
-                            Argon is a great free UI package based on Bootstrap
-                            4 that includes the most important components and
-                            features.
+                            401
                           </p>
                           <div>
                             <Badge color="warning" pill className="mr-1">
-                              marketing
+                              lab1
                             </Badge>
                             <Badge color="warning" pill className="mr-1">
-                              product
+                              lab2
                             </Badge>
                             <Badge color="warning" pill className="mr-1">
-                              launch
+                              final
                             </Badge>
                           </div>
                           <Button
