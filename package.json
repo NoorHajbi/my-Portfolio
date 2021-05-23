@@ -68,5 +68,6 @@
     "gulp-append-prepend": "1.0.8",
     "jquery": "3.4.1",
     "typescript": "3.7.5"
-  }
+  },
+  "homepage": "https://github.com/creativetimofficial/argon-design-system-react#readme"
 }
